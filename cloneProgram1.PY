@@ -1,1 +1,1 @@
-print("Hello from Github. This folder will be cloned")
+print("Modified locally. This folder will be cloned")
